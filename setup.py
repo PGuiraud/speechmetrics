@@ -20,7 +20,7 @@ setup(
 	    # line.
         #'gammatone @ git+https://github.com/detly/gammatone',
         'pypesq @ git+https://github.com/vBaiCai/python-pesq',
-        'srmrpy @ git+https://github.com/jfsantos/SRMRpy',
+        'srmrpy @ https://github.com/jfsantos/SRMRpy/archive/master.zip#egg=SRMRpy',
         'pesq @ git+https://github.com/ludlows/python-pesq',
     ],
     extras_require={
